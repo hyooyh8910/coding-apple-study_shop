@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -6,6 +7,15 @@
   height: 40vmin;
   pointer-events: none;
 }
+
+
+.main-bg {
+  height: 700px;
+  background-image: url('./img/smile.jpeg');
+  background-size: auto;
+  background-position: center;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
